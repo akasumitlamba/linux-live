@@ -6,7 +6,7 @@ distribution into a Live Kit (formely known as Live CD).
 Make sure to extract and use it on a posix-compatible filesystem,
 since it creates some (sym)links and such.
 
-Note:
+Note:A
 
 * Store Linux Live kit in a directory which is not going to be included
   in your live distro, else it would be copied to it. Best practice is to
